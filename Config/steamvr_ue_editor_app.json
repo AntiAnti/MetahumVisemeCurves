@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.metahumvisemecurves-15973114.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "G:/MyDocuments/Unreal Projects/MetahumVisemeCurves/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "MetahumVisemeCurves-15973114 [UE Editor]"
+				}
+			}
+		}
+	]
+}
